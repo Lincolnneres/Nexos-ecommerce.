@@ -26,11 +26,11 @@ O design utiliza uma paleta de cores baseada em tons de roxo e preto profundo, t
 
 ### Desktop
 
-![Preview Desktop](./assets/E-Commerce-Desktop-00.png)
-![Preview Desktop Detalhes](./assets/E-Commerce-Desktop-01.png)
+<img src="./assets/E-Commerce-Desktop-00.png" alt="Preview Desktop" width="400">
+<img src="./assets/E-Commerce-Desktop-01.png" alt="Preview Desktop Detalhes" width="400">
 
 ### Mobile
 
-![Preview Mobile](./assets/E-Commerce-Mobile.png)
+<img src="./assets/E-Commerce-Mobile.png" alt="Preview Mobile" width="250">
 
 ## 📦 Como rodar o projeto
