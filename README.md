@@ -33,6 +33,4 @@ O design utiliza uma paleta de cores baseada em tons de roxo e preto profundo, t
 
 <img src="./assets/E-Commerce-Mobile.png" alt="Preview Mobile" width="250">
 
-## 📦 Acesse o projeto online.
-
-https://lincolnneres.github.io/Nexos-ecommerce./
+_👉 [Clique aqui para visualizar o projeto online](https://lincolnneres.github.io/Nexos-ecommerce./)_
